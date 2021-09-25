@@ -1,0 +1,127 @@
+18:42:28.619 [run-main-0] INFO  c.A.c.Simulations.PaasSimulation - Running Platform as a Service Simulation 
+18:42:29.639 [run-main-0] INFO  c.A.cloudsim.Base.DataCenterBase - Number of Hosts created - 10
+18:42:29.718 [run-main-0] INFO  c.A.cloudsim.Base.DataCenterBase - Number of Hosts created - 10
+18:42:29.722 [run-main-0] INFO  c.A.cloudsim.Base.DataCenterBase - Number of Hosts created - 10
+18:42:29.726 [run-main-0] INFO  c.A.cloudsim.Base.DataCenterBase - Number of Hosts created - 10
+18:42:29.727 [run-main-0] INFO  c.A.c.Simulations.PaasSimulation - Dispalying the details of service provider 
+18:42:35.223 [run-main-0] INFO  c.A.cloudsim.Base.DataCenterBase - Creating 8 VM of type SimpleVm which uses TimeShared for scheduling cloudlets
+18:42:35.252 [run-main-0] INFO  CloudSim - 
+================== Starting CloudSim Plus 5.1.0 ==================
+
+18:42:35.253 [run-main-0] INFO  DatacenterSimple - DatacenterSimple1 is starting...
+18:42:35.258 [run-main-0] INFO  DatacenterSimple - DatacenterSimple2 is starting...
+18:42:35.259 [run-main-0] INFO  DatacenterSimple - DatacenterSimple3 is starting...
+18:42:35.259 [run-main-0] INFO  DatacenterSimple - DatacenterSimple4 is starting...
+18:42:35.259 [run-main-0] INFO  DatacenterBroker - DataCenterBrokerCustom5 is starting...
+18:42:35.259 [run-main-0] INFO  CloudSim - Entities started.
+18:42:35.267 [run-main-0] INFO  DatacenterBroker - 0.00: DataCenterBrokerCustom5: List of 4 datacenters(s) received.
+18:42:35.268 [run-main-0] INFO  DatacenterBroker - 0.00: DataCenterBrokerCustom5: Trying to create Vm 0 in DatacenterSimple4
+18:42:35.272 [run-main-0] INFO  DatacenterBroker - 0.00: DataCenterBrokerCustom5: Trying to create Vm 1 in DatacenterSimple4
+18:42:35.273 [run-main-0] INFO  DatacenterBroker - 0.00: DataCenterBrokerCustom5: Trying to create Vm 2 in DatacenterSimple4
+18:42:35.273 [run-main-0] INFO  DatacenterBroker - 0.00: DataCenterBrokerCustom5: Trying to create Vm 3 in DatacenterSimple4
+18:42:35.274 [run-main-0] INFO  DatacenterBroker - 0.00: DataCenterBrokerCustom5: Trying to create Vm 4 in DatacenterSimple4
+18:42:35.277 [run-main-0] INFO  DatacenterBroker - 0.00: DataCenterBrokerCustom5: Trying to create Vm 5 in DatacenterSimple4
+18:42:35.277 [run-main-0] INFO  DatacenterBroker - 0.00: DataCenterBrokerCustom5: Trying to create Vm 6 in DatacenterSimple4
+18:42:35.278 [run-main-0] INFO  DatacenterBroker - 0.00: DataCenterBrokerCustom5: Trying to create Vm 7 in DatacenterSimple4
+18:42:35.286 [run-main-0] INFO  VmAllocationPolicyAbstract - 0.00: VmAllocationPolicyFirstFit: Vm 0 has been allocated to Host 0/DC 4
+18:42:35.288 [run-main-0] INFO  VmAllocationPolicyAbstract - 0.00: VmAllocationPolicyFirstFit: Vm 1 has been allocated to Host 1/DC 4
+18:42:35.289 [run-main-0] INFO  VmAllocationPolicyAbstract - 0.00: VmAllocationPolicyFirstFit: Vm 2 has been allocated to Host 2/DC 4
+18:42:35.291 [run-main-0] INFO  VmAllocationPolicyAbstract - 0.00: VmAllocationPolicyFirstFit: Vm 3 has been allocated to Host 3/DC 4
+18:42:35.293 [run-main-0] INFO  VmAllocationPolicyAbstract - 0.00: VmAllocationPolicyFirstFit: Vm 4 has been allocated to Host 4/DC 4
+18:42:35.294 [run-main-0] INFO  VmAllocationPolicyAbstract - 0.00: VmAllocationPolicyFirstFit: Vm 5 has been allocated to Host 5/DC 4
+18:42:35.295 [run-main-0] INFO  VmAllocationPolicyAbstract - 0.00: VmAllocationPolicyFirstFit: Vm 6 has been allocated to Host 6/DC 4
+18:42:35.296 [run-main-0] INFO  VmAllocationPolicyAbstract - 0.00: VmAllocationPolicyFirstFit: Vm 7 has been allocated to Host 7/DC 4
+18:42:35.297 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 0 to Vm 0 in Host 0/DC 4.
+18:42:35.297 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 1 to Vm 1 in Host 1/DC 4.
+18:42:35.298 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 2 to Vm 2 in Host 2/DC 4.
+18:42:35.298 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 3 to Vm 3 in Host 3/DC 4.
+18:42:35.298 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 4 to Vm 4 in Host 4/DC 4.
+18:42:35.299 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 5 to Vm 5 in Host 5/DC 4.
+18:42:35.299 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 6 to Vm 6 in Host 6/DC 4.
+18:42:35.299 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 7 to Vm 7 in Host 7/DC 4.
+18:42:35.300 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 8 to Vm 0 in Host 0/DC 4.
+18:42:35.300 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 9 to Vm 1 in Host 1/DC 4.
+18:42:35.301 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 10 to Vm 2 in Host 2/DC 4.
+18:42:35.301 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 11 to Vm 3 in Host 3/DC 4.
+18:42:35.302 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 12 to Vm 4 in Host 4/DC 4.
+18:42:35.302 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 13 to Vm 5 in Host 5/DC 4.
+18:42:35.302 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 14 to Vm 6 in Host 6/DC 4.
+18:42:35.302 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 15 to Vm 7 in Host 7/DC 4.
+18:42:35.303 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 16 to Vm 0 in Host 0/DC 4.
+18:42:35.303 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 17 to Vm 1 in Host 1/DC 4.
+18:42:35.303 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 18 to Vm 2 in Host 2/DC 4.
+18:42:35.304 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 19 to Vm 3 in Host 3/DC 4.
+18:42:35.304 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 20 to Vm 4 in Host 4/DC 4.
+18:42:35.304 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 21 to Vm 5 in Host 5/DC 4.
+18:42:35.304 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 22 to Vm 6 in Host 6/DC 4.
+18:42:35.305 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 23 to Vm 7 in Host 7/DC 4.
+18:42:35.306 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 24 to Vm 0 in Host 0/DC 4.
+18:42:35.307 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 25 to Vm 1 in Host 1/DC 4.
+18:42:35.307 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 26 to Vm 2 in Host 2/DC 4.
+18:42:35.307 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 27 to Vm 3 in Host 3/DC 4.
+18:42:35.308 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 28 to Vm 4 in Host 4/DC 4.
+18:42:35.308 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 29 to Vm 5 in Host 5/DC 4.
+18:42:35.309 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 30 to Vm 6 in Host 6/DC 4.
+18:42:35.309 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: Sending Cloudlet 31 to Vm 7 in Host 7/DC 4.
+18:42:35.309 [run-main-0] INFO  DatacenterBroker - 0.10: DataCenterBrokerCustom5: All waiting Cloudlets submitted to some VM.
+18:42:35.362 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 0 finished and returned to broker.
+18:42:35.364 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 8 finished and returned to broker.
+18:42:35.366 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 16 finished and returned to broker.
+18:42:35.367 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 24 finished and returned to broker.
+18:42:35.367 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 1 finished and returned to broker.
+18:42:35.368 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 9 finished and returned to broker.
+18:42:35.368 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 17 finished and returned to broker.
+18:42:35.368 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 25 finished and returned to broker.
+18:42:35.369 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 2 finished and returned to broker.
+18:42:35.369 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 10 finished and returned to broker.
+18:42:35.369 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 18 finished and returned to broker.
+18:42:35.370 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 26 finished and returned to broker.
+18:42:35.370 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 3 finished and returned to broker.
+18:42:35.370 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 11 finished and returned to broker.
+18:42:35.370 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 19 finished and returned to broker.
+18:42:35.371 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 27 finished and returned to broker.
+18:42:35.371 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 4 finished and returned to broker.
+18:42:35.371 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 12 finished and returned to broker.
+18:42:35.372 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 20 finished and returned to broker.
+18:42:35.372 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 28 finished and returned to broker.
+18:42:35.372 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 5 finished and returned to broker.
+18:42:35.373 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 13 finished and returned to broker.
+18:42:35.374 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 21 finished and returned to broker.
+18:42:35.375 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 29 finished and returned to broker.
+18:42:35.375 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 6 finished and returned to broker.
+18:42:35.376 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 14 finished and returned to broker.
+18:42:35.376 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 22 finished and returned to broker.
+18:42:35.376 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 30 finished and returned to broker.
+18:42:35.377 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 7 finished and returned to broker.
+18:42:35.377 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 15 finished and returned to broker.
+18:42:35.377 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 23 finished and returned to broker.
+18:42:35.378 [run-main-0] INFO  DatacenterBroker - 40.11: DataCenterBrokerCustom5: Cloudlet 31 finished and returned to broker.
+18:42:35.382 [run-main-0] INFO  CloudSim - 40.22: Processing last events before simulation shutdown.
+18:42:35.388 [run-main-0] INFO  DatacenterBroker - 40.22: DataCenterBrokerCustom5 is shutting down...
+18:42:35.389 [run-main-0] INFO  DatacenterBroker - 40.22: DataCenterBrokerCustom5: Requesting Vm 7 destruction.
+18:42:35.392 [run-main-0] INFO  DatacenterBroker - 40.22: DataCenterBrokerCustom5: Requesting Vm 6 destruction.
+18:42:35.392 [run-main-0] INFO  DatacenterBroker - 40.22: DataCenterBrokerCustom5: Requesting Vm 5 destruction.
+18:42:35.393 [run-main-0] INFO  DatacenterBroker - 40.22: DataCenterBrokerCustom5: Requesting Vm 4 destruction.
+18:42:35.393 [run-main-0] INFO  DatacenterBroker - 40.22: DataCenterBrokerCustom5: Requesting Vm 3 destruction.
+18:42:35.393 [run-main-0] INFO  DatacenterBroker - 40.22: DataCenterBrokerCustom5: Requesting Vm 2 destruction.
+18:42:35.394 [run-main-0] INFO  DatacenterBroker - 40.22: DataCenterBrokerCustom5: Requesting Vm 1 destruction.
+18:42:35.394 [run-main-0] INFO  DatacenterBroker - 40.22: DataCenterBrokerCustom5: Requesting Vm 0 destruction.
+18:42:35.401 [run-main-0] INFO  DatacenterSimple - 40.22: DatacenterSimple: Vm 7 destroyed on Host 7/DC 4. 
+18:42:35.402 [run-main-0] INFO  DatacenterSimple - 40.22: DatacenterSimple: Vm 6 destroyed on Host 6/DC 4. 
+18:42:35.408 [run-main-0] INFO  DatacenterSimple - 40.22: DatacenterSimple: Vm 5 destroyed on Host 5/DC 4. 
+18:42:35.413 [run-main-0] INFO  DatacenterSimple - 40.22: DatacenterSimple: Vm 4 destroyed on Host 4/DC 4. 
+18:42:35.418 [run-main-0] INFO  DatacenterSimple - 40.22: DatacenterSimple: Vm 3 destroyed on Host 3/DC 4. 
+18:42:35.419 [run-main-0] INFO  DatacenterSimple - 40.22: DatacenterSimple: Vm 2 destroyed on Host 2/DC 4. 
+18:42:35.420 [run-main-0] INFO  DatacenterSimple - 40.22: DatacenterSimple: Vm 1 destroyed on Host 1/DC 4. 
+18:42:35.452 [run-main-0] INFO  DatacenterSimple - 40.22: DatacenterSimple: Vm 0 destroyed on Host 0/DC 4. 
+18:42:35.457 [run-main-0] INFO  CloudSim - Simulation: No more future events
+
+18:42:35.462 [run-main-0] INFO  CloudInformationService - CloudInformationService0: Notify all CloudSim Plus entities to shutdown.
+
+18:42:35.475 [run-main-0] INFO  DatacenterSimple - 40.22: DatacenterSimple1 is shutting down...
+18:42:35.478 [run-main-0] INFO  DatacenterSimple - 40.22: DatacenterSimple2 is shutting down...
+18:42:35.480 [run-main-0] INFO  DatacenterSimple - 40.22: DatacenterSimple3 is shutting down...
+18:42:35.480 [run-main-0] INFO  DatacenterSimple - 40.22: DatacenterSimple4 is shutting down...
+18:42:35.480 [run-main-0] INFO  CloudSim - 
+================== Simulation finished at time 40.22 ==================
+
